@@ -1,0 +1,27 @@
+
+/* You can add global styles to this file, and also import other style files */
+
+.header {
+    margin-left: 24px;
+}
+
+.divcenter {
+    justify-content: center;
+    align-items: center;
+}
+
+.fa {
+    width: 12px!important;
+    font-size: 1.2em;
+}
+
+.error,
+.control-error {
+    color: #dc3545;
+    margin-left: 8px;
+}
+
+input.ng-invalid,
+.form-submitted select.ng-invalid {
+    border-color: #dc3545;
+}
